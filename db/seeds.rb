@@ -1,0 +1,72 @@
+# This file should contain all the record creation needed to seed the database with its default values.
+# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
+#
+# Examples:
+#
+#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
+#   Character.create(name: 'Luke', movie: movies.first)
+
+UfValue.create([
+                 { date: '2019/01/01', value: 27_565.79 },
+                 { date: '2019/01/02', value: 27_565.79 },
+                 { date: '2019/01/03', value: 27_565.79 },
+                 { date: '2019/01/04', value: 27_565.79 },
+                 { date: '2019/01/05', value: 27_565.79 },
+                 { date: '2019/01/06', value: 27_565.79 },
+                 { date: '2019/01/07', value: 27_565.79 },
+                 { date: '2019/01/08', value: 27_565.79 },
+                 { date: '2019/01/09', value: 27_565.79 },
+                 { date: '2019/01/10', value: 27_564.90 },
+                 { date: '2019/01/11', value: 27_564.01 },
+                 { date: '2019/01/12', value: 27_563.12 },
+                 { date: '2019/01/13', value: 27_562.23	},
+                 { date: '2019/01/14', value: 27_561.34 },
+                 { date: '2019/01/15', value: 27_560.45 },
+                 { date: '2019/01/16', value: 27_559.56 },
+                 { date: '2019/01/17', value: 27_558.67 },
+                 { date: '2019/01/18', value: 27_557.78 },
+                 { date: '2019/01/19', value: 27_556.89 },
+                 { date: '2019/01/20', value: 27_556.01 },
+                 { date: '2019/01/21', value: 27_555.12 },
+                 { date: '2019/01/22', value: 27_554.23 },
+                 { date: '2019/01/23', value: 27_553.34 },
+                 { date: '2019/01/24', value: 27_552.45 },
+                 { date: '2019/01/25', value: 27_551.56 },
+                 { date: '2019/01/26', value: 27_550.67 },
+                 { date: '2019/01/27', value: 27_549.78 },
+                 { date: '2019/01/28', value: 27_548.89 },
+                 { date: '2019/01/29', value: 27_548.00 },
+                 { date: '2019/01/30', value: 27_547.11 },
+                 { date: '2019/01/31', value: 27_546.22 },
+               ])
+
+UfValue.create([
+                   { date: '2019/02/01', value: 27_545.34 },
+                   { date: '2019/02/02', value: 27_544.45 },
+                   { date: '2019/02/03', value: 27_543.56 },
+                   { date: '2019/02/04', value: 27_542.67 },
+                   { date: '2019/02/05', value: 27_541.78	 },
+                   { date: '2019/02/06', value: 27_540.89 },
+                   { date: '2019/02/07', value: 27_540.00 },
+                   { date: '2019/02/08', value: 27_539.11 },
+                   { date: '2019/02/09', value: 27_538.22 },
+                   { date: '2019/02/10', value: 27_539.20 },
+                   { date: '2019/02/11', value: 27_540.19 },
+                   { date: '2019/02/12', value: 27_541.17 },
+                   { date: '2019/02/13', value: 27_542.15 },
+                   { date: '2019/02/14', value: 27_543.14 },
+                   { date: '2019/02/15', value: 27_544.12 },
+                   { date: '2019/02/16', value: 27_545.10 },
+                   { date: '2019/02/17', value: 27_546.09 },
+                   { date: '2019/02/18', value: 27_547.07 },
+                   { date: '2019/02/19', value: 27_548.05 },
+                   { date: '2019/02/20', value: 27_549.04 },
+                   { date: '2019/02/21', value: 27_550.02 },
+                   { date: '2019/02/22', value: 27_551.00 },
+                   { date: '2019/02/23', value: 27_551.99 },
+                   { date: '2019/02/24', value: 27_552.97 },
+                   { date: '2019/02/25', value: 27_553.95 },
+                   { date: '2019/02/26', value: 27_554.94 },
+                   { date: '2019/02/27', value: 27_555.92 },
+                   { date: '2019/02/28', value: 27_556.90 },
+               ])
